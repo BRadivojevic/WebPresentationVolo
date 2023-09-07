@@ -1,0 +1,16 @@
+ul.navbar-nav>li>a{
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+ul.navbar-nav>li.nav-items.dropdown>.dropdown-menu>a{
+	letter-spacing: 0.15rem;
+}
+
+.list-unstyled li{
+	padding: 3rem;
+	border-bottom: 1px solid #343a40;
+}
+.list-unstyled li a{
+	color: black;
+	text-decoration: none;
+}
